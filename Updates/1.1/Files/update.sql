@@ -1,1 +1,0 @@
-INSERT INTO `frontends` (`id`, `data_keys`, `data_values`, `created_at`, `updated_at`) VALUES (NULL, 'cookie.data', NULL, NULL, NULL)
